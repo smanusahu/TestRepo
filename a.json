@@ -1,0 +1,12 @@
+{
+  "TournamentId": 10001,
+  "GameId": 74950,
+  "IsAddCardToUserDeckOperationIsInProgress": false,
+  "CounterVariableOfUser1Activation": -1,
+  "CounterVariableOfUser2Activation": 0,
+  "CounterVariableOfUser3Activation": -1,
+  "CounterVariableOfUser4Activation": 0,
+  "CounterVariableOfUser5Activation": 0,
+  "CounterVariableOfUser6Activation": 0,
+  "TournamentMaxAllowedPlayers": 6
+}
